@@ -7,11 +7,11 @@
 .Hero {
   display: flex;
   gap: 25px;
+  margin: auto;
   align-items: flex-start;
   padding: 25px;
 }
 
-/* LEFT */
 
 .Hero__left {
   width: 650px;

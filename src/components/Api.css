@@ -1,4 +1,4 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -11,10 +11,12 @@
 
 
 .menu {
-  width: 100%;
+
   max-width: 700px;
   margin: 0 auto;
   padding: 15px;
+  margin-top: -690px;
+  margin-left: -430px;
 }
 
 .menu__header {
@@ -127,4 +129,4 @@
   background: #f3eddc;
   color: #a55c5c;
   font-size: 16px;
-}
+} */

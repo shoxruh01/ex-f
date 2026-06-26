@@ -79,13 +79,6 @@ const Hero = () => {
         </div>
       </div>
 
-
-
-
-
-
-
-
       {/* yon bo'lim */}
 
       <div className="Hero2">
@@ -137,13 +130,7 @@ const Hero = () => {
         </div>
       </div>
 
-
-
-
-
-
-
-<div className="ob__container">
+      <div className="ob__container">
         <div className="card__calories">
           <div className="label">CALORIES</div>
           <div className="value">450 kcal</div>
@@ -164,9 +151,7 @@ const Hero = () => {
           <div className="value">52g</div>
         </div>
       </div>
-      
     </div>
-    
   );
 };
 

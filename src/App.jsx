@@ -1,7 +1,7 @@
 import Sidebar from "./components/Sidebar";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-import Api from "./components/Api";
+// import Api from "./components/Api";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <div style={{ width: "100%" }}>
         <Header />
         <Hero/>
-        <Api/>
+        {/* <Api/> */}
       </div>
     </div>
   );
